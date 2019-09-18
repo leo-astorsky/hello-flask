@@ -1,5 +1,7 @@
 # hello-flask
 
+> Need intall `python3` with `pip`
+
 ## Install requirements
 ```bash
 pip install -r requirements.txt
